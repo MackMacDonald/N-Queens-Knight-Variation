@@ -25,5 +25,6 @@ Comparing two approaches to solving the problem
 
 ## How to run
 To install the dependencies with pip `pip install -r requirements.txt`
+
 To run the program `python ./nqueensknightvariation {genetic,dfs} n` where n is the size of the board and either algorithm is chosen.
 
