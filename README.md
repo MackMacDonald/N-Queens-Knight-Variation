@@ -1,5 +1,5 @@
 # N-Queens-Knight-Variation
-Comparing two approaches to solving the problem
+Comparing two approaches to solving the problem, Depth-first search and a type of genetic algorithm. The problem is a variation of the N-Queens problem where the Queen is also able to make Knight moves.
 
 ## Simple visuals to illustrate the solution
 ![visuals](https://i.imgur.com/1CXlSG0.png)
